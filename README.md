@@ -17,7 +17,10 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![JavaFX](https://img.shields.io/badge/JavaFX-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java Swing](https://img.shields.io/badge/Java_Swing-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ### 🔧 Backend  
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
@@ -27,6 +30,7 @@
 ### 📦 Database  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -44,8 +48,7 @@
 
 ---
 
-## 🏆 Achievements  
-- 🌟 Open Source Contributor at [Your Favorite Projects].  
+## 🏆 Achievements    
 - 🏅 Buildothon 1st Runner Up: [</DevHeads> The Buildothon 2024].  
 
 ---
@@ -58,5 +61,4 @@
 ## 🐍 Fun Contribution Animation  
 ![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
 
----
 
