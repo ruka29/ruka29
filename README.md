@@ -5,9 +5,9 @@
 ---
 
 ## 🚀 About Me  
-- 💻 **Role**: Full-Stack Developer | IoT Enthusiast  
+- 💻 **Role**: Full-Stack Developer | Back-End Developer  
 - 🌱 Currently working on **AquaFlow** – an IoT-based water management system.  
-- 🎯 Fun Fact: I enjoy experimenting with machine learning and automation.  
+- 🎯 Fun Fact: I enjoy developing new innovative ideas.  
 
 ---
 
@@ -69,11 +69,11 @@
 ---
 
 ## 🎯 Random Motivation  
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+!["It doesn't matter what your idea is—give it your best effort. That solution might just change the world, and in the process, you'll gain your precious knowledge." 🌍💡](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
 
 ---
 
 ## 🐍 Fun Contribution Animation  
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ruka29/ruka29/blob/output/github-contribution-grid-snake.svg)
 
 
