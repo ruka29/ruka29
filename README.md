@@ -59,7 +59,7 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ruka29&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruka29&layout=compact&theme=radical)  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ruka29&theme=github-compact)](https://github.com/ruka29/github-readme-activity-graph)  
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ruka29&theme=github-compact)](https://github.com/ruka29/github-readme-activity-graph)  
 
 ---
 
