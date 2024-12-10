@@ -69,7 +69,7 @@
 ---
 
 ## 🎯 Random Motivation  
-!["It doesn't matter what your idea is—give it your best effort. That solution might just change the world, and in the process, you'll gain your precious knowledge." 🌍💡](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+"It doesn't matter what your idea is—give it your best effort. That solution might just change the world, and in the process, you'll gain precious knowledge." 🌍💡
 
 ---
 
