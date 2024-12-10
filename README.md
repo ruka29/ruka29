@@ -49,7 +49,7 @@
 ---
 
 ## 🏆 Achievements    
-- 🏅 Buildothon 1st Runner Up: ["</DevHeads>" The Buildothon 2024].  
+- 🏅 Buildothon 1st Runner Up: [\</DevHeads\> The Buildothon 2024](https://github.com/ruka29/AquaFlow).  
 
 ---
 
