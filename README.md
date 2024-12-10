@@ -59,7 +59,7 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ruka29&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruka29&layout=compact&theme=radical)  
-[![GitHub Activity Graph](https://github-contribution-grid.vercel.app/graph?username=ruka29&theme=github-compact)](https://github.com/ruka29)  
+[![GitHub Activity Graph](https://github-contribution-grid.vercel.app/graph?username=ruka29&theme=github)](https://github.com/ruka29)  
 
 ---
 
